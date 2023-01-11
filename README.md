@@ -4,6 +4,8 @@ This is an entire football application written entirely by [ChatGPT](https://cha
 
 We will include all the text prompts which were used here in this readme.
 
+Where a human as modified an asset obtained from ChatGPT, we will mark this with a comment which has the prefix: ```HUMAN EDIT```
+
 __This project is work-in-progress__
 
 ## Database
